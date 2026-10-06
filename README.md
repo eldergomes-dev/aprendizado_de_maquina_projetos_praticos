@@ -30,6 +30,8 @@ aprendizado_de_maquina_projetos_praticos/
     │   └── grafico_correlacao.png
     └── README.md
 
+    "Para testar o modelo treinado sem abrir o Jupyter Notebook, basta rodar no terminal: python codigo_fonte/fazer_previsao.py"
+
   ## 📋 Como Replicar os Projetos
 
 1. Clone o repositório para o seu ambiente local:
